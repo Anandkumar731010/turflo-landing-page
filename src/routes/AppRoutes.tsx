@@ -9,8 +9,8 @@ const AppRoutes = () => {
         <Routes>
             <Route path="/" element={<LandingPage />} />
             <Route path="/landingPage" element={<LandingPage />} />
-            <Route path="/terms_and_conditions" element={<TermsAndConditions />} />
-            <Route path="/privacy_policy" element={<PrivacyPolicy />} />
+            <Route path="/termsAndconditions" element={<TermsAndConditions />} />
+            <Route path="/privacy" element={<PrivacyPolicy />} />
         </Routes>
     );
 };
