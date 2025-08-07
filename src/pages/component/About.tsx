@@ -103,7 +103,7 @@ const About = ({ id }: AboutProps) => {
 
               {/* Play Store Button */}
               <a
-                href="#"
+                href="https://play.google.com/store/apps/details?id=com.turflo.consumer_app.turflo_consumer_app"
                 className="bg-white h-[50px] md:h-[60px] lg:h-[60px] xl:h-[75px] flex items-center gap-2 rounded-full border-2 border-[#0295B0] px-[8px] py-[10px] md:px-[12px] md:gap-3"
               >
                 <div className="flex-shrink-0">
